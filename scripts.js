@@ -1,1 +1,1 @@
-document.getElementById("para").innerHTML = SRIDEVI
+document.getElementById("para").innerHTML = "SRIDEVI";
